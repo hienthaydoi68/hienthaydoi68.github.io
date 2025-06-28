@@ -12,7 +12,7 @@ const dataExample = [
     {
         "url": "https://s.shopee.vn/5fdBlTuYrv",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mbfbwc8de0vo77.webp",
-        "des": "Bảng Phấn Trang Điểm 3CE Layer It All"
+        "des": "Bảng Phấn 3CE Layer It All"
     },
     {
         "url": "https://s.shopee.vn/8pa5O329lU",
@@ -22,7 +22,7 @@ const dataExample = [
     {
         "url": "https://s.shopee.vn/5L0DD0Yt2P",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134201-7ras8-mbgc6oj95v2fd2.webp",
-        "des": "Phấn má hồng mịn lì chuẩn màu Maybelline Fit Me Blush"
+        "des": "Maybelline Fit Me Blush"
     },
     {
         "url": "https://s.shopee.vn/8Kdz5QMhHg",
@@ -32,17 +32,17 @@ const dataExample = [
     {
         "url": "https://s.shopee.vn/5fdFO56rv4",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mb6s7hq3x7zne6.webp",
-        "des": "Kem chấm Mụn Biotrade Acnaut Active Cream"
+        "des": "Kem chấm Mụn Biotrade"
     },
     {
         "url": "https://s.shopee.vn/4VRHzWdPa1",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-mbahr8qjqwfn3a.webp",
-        "des": "Serum giảm mụn, kháng khuẩn, giảm nhờn"
+        "des": "HYSEAC SÉRUM"
     },
     {
         "url": "https://s.shopee.vn/x2jqBYoP",
         "image": "https://down-vn.img.susercontent.com/file/sg-11134201-22090-e6wrerf0pthv3a.webp",
-        "des": "Bông đắp toner lotion mask Likado"
+        "des": "Bông đắp toner Likado"
     },
     {
         "url": "https://s.shopee.vn/8AKc8Ed6a8",
@@ -52,22 +52,22 @@ const dataExample = [
     {
         "url": "https://s.shopee.vn/1LULz9tUnq",
         "image": "https://down-vn.img.susercontent.com/file/sg-11134201-7ra3n-mbiyi5vzlkbg4b.webp",
-        "des": "Đầm 2 dây ngang vai phối hoa"
+        "des": "Đầm 2 dây ngang vai"
     },
     {
         "url": "https://s.shopee.vn/7AS4wk7Q96",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ra0g-m8zu89quw7eve9.webp",
-        "des": "Đầm dài chấm bi CÓ MÚT- EMILY DRESS"
+        "des": "Đầm dài chấm bi"
     },
     {
         "url": "https://s.shopee.vn/VvDJJMMmg",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-maupkt8onw7sc8.webp",
-        "des": " Son Nhung Bóng Lì Lilybyred Balming Dewy Tint 6g"
+        "des": " Son Lilybyred"
     },
     {
         "url": "https://s.shopee.vn/10rVaiaEcu",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7qukw-ljb86akwnsp860.webp",
-        "des": "Bàn ủi hơi nước cầm tay Philips"
+        "des": "Bàn ủi hơi nước Philips"
     },
     {
         "url": "https://s.shopee.vn/VvDMi02HY",
@@ -82,12 +82,12 @@ const dataExample = [
     {
         "url": "https://s.shopee.vn/1g7CN9MpVv",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-m2y306osj7jk68.webp",
-        "des": "Set Đầm Gân Trễ Vai Ngắn"
+        "des": "Set Đầm Trễ Vai"
     },
     {
         "url": "https://s.shopee.vn/1B8tidobYK",
         "image": "https://cdn.beacons.ai/user_content/HNvpMX4O6aa1CQoOW1sq7ltUcjy1/referenced_images/4701084a-d6d4-4190-b916-ae7371b1a599__link-in-bio__links-block__home__9d646cfc-08c2-46d3-ab93-7bd0ff8f0b65__08ef97d5-0cad-456d-8172-ea01ec246364__074b7317-4ecb-4733-b8b2-fd084bbfeb6f.jpg?t=1721657807521",
-        "des": "Áo sơ mi dài tay thêu ren"
+        "des": "Áo sơ mi dài tay"
     },
     {
         "url": "https://s.shopee.vn/AA3iRlS3qj",
