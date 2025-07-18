@@ -2,7 +2,7 @@ const dataExample = [
      {
         "url": "https://s.shopee.vn/4L8TsBxg06",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lrxc4x52pyh03f.webp",
-        "des": "Tẩy Tế Bào Chết Da Đầu Aromatica"
+        "des": "Tẩy TBC Da Đầu Aromatica"
     },
      {
         "url": "https://s.shopee.vn/1BBS6KJk7q",
@@ -17,7 +17,7 @@ const dataExample = [
      {
         "url": "https://s.shopee.vn/9KX9pIGkDf",
         "image": "https://down-vn.img.susercontent.com/file/vn-11134207-7ras8-map18lk41yvse7.webp",
-        "des": "Mặt Nạ BANOBAGI PREMIUM"
+        "des": "BANOBAGI PREMIUM MASK"
     },
      {
         "url": "https://s.shopee.vn/9fA0DkmfAn",
