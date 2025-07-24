@@ -7,7 +7,7 @@ const dataExample = [
      {
         "url": "https://s.shopee.vn/9fA9QfxsA9",
         "image": "https://down-vn.img.susercontent.com/file/sg-11134207-7raut-mak2n3nyl1n4e1.webp",
-        "des": "Che Khuyết Điểm Cover Up Pro Concealer"
+        "des": "Che Khuyết Điểm Cover Up Pro"
     },
       {
         "url": "https://s.shopee.vn/4L8TsBxg06",
