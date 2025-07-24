@@ -1,4 +1,28 @@
+// Mobile optimizations
+document.addEventListener('DOMContentLoaded', function() {
+  // Function to update PageFrameWrapper class based on screen size
+  function updatePageFrameWrapperClass() {
+    const pageFrameWrapper = document.getElementById('PageFrameWrapper');
+    if (pageFrameWrapper) {
+      if (window.innerWidth > 768) {
+        pageFrameWrapper.className = 'PageFrameWrapper';
+      }else {
+        pageFrameWrapper.className = 'PageFrameWrapperCustom';
+      }
+    }
+  }
 
+  // Update class on page load
+  updatePageFrameWrapperClass();
+  window.addEventListener('resize', updatePageFrameWrapperClass);
+  // Handle orientation change
+  window.addEventListener('orientationchange', function() {
+    setTimeout(function() {
+      window.scrollTo(0, 0);
+      updatePageFrameWrapperClass(); // Update class after orientation change
+    }, 100);
+  });
+});
 
 function genItem(parent) {
     const oneItem = document.createElement("a");
